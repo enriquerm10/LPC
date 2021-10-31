@@ -1,0 +1,2 @@
+Usando algunas funciones vistas en Programacion para ciberseguridad 
+elabore un menu para realizar ciertas acciones con los perfiles de red "PUBLIC Y PRIVATE"
